@@ -90,6 +90,5 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
-# Hazel-specific
-bin
-bin-int
+# IDE gen files
+/.vscode
