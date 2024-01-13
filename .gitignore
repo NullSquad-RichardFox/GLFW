@@ -91,4 +91,4 @@ tests/window
 tests/windows
 
 # IDE gen files
-/.vscode
+**/.vscode
