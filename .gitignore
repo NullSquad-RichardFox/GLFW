@@ -92,3 +92,5 @@ tests/windows
 
 # IDE gen files
 **/.vscode
+/bin
+/bin-int
