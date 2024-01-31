@@ -4,8 +4,8 @@ project "GLFW"
 	staticruntime "off"
 	warnings "off"
 
-	targetdir ("bin/" .. outputdir)
-	objdir ("bin-int/" .. outputdir)
+    targetdir ("Binaries/" .. outputdir)
+    objdir ("Intermediate/" .. outputdir)
 
 	files
 	{

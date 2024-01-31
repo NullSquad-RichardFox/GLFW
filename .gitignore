@@ -94,3 +94,5 @@ tests/windows
 **/.vscode
 /bin
 /bin-int
+/Binaries
+/Intermediate
